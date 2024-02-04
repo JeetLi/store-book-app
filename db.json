@@ -1,0 +1,664 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "basium audeo verecundia",
+      "issueYear": "2025-01-27T20:33:15.732Z",
+      "rating": 5,
+      "authors": "Heather Walker",
+      "image": {
+        "url": "https://picsum.photos/seed/uyvnRMMyS/640/480"
+      },
+      "categories": "History"
+    },
+    {
+      "id": 2,
+      "title": "amet debeo utrum",
+      "issueYear": "2025-01-10T04:11:42.065Z",
+      "rating": 3,
+      "authors": "Mrs. Kristie Rosenbaum",
+      "image": {
+        "url": "https://picsum.photos/seed/2kjI0J/640/480"
+      },
+      "categories": "Fantasy"
+    },
+    {
+      "id": 3,
+      "title": "cenaculum eius quam",
+      "issueYear": "2024-08-16T19:29:30.230Z",
+      "rating": 5,
+      "authors": "Mandy Ullrich",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=3050843045625856"
+      },
+      "categories": "Mystery"
+    },
+    {
+      "id": 4,
+      "title": "nemo coma dolores",
+      "issueYear": "2023-06-25T22:24:21.817Z",
+      "rating": 2,
+      "authors": "Henry Rippin",
+      "image": {
+        "url": "https://picsum.photos/seed/BmTRD/640/480"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 5,
+      "title": "aestivus trepide provident",
+      "issueYear": "2023-07-12T10:20:15.888Z",
+      "rating": 4,
+      "authors": "Maxine Kirlin",
+      "image": {
+        "url": "https://picsum.photos/seed/sRepr4/640/480"
+      },
+      "categories": "Cookbooks"
+    },
+    {
+      "id": 6,
+      "title": "ter virtus una",
+      "issueYear": "2024-09-22T11:02:44.521Z",
+      "rating": 2,
+      "authors": "Alyssa Schmidt",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=5131832628609024"
+      },
+      "categories": "Travel"
+    },
+    {
+      "id": 7,
+      "title": "depulso coaegresco alienus",
+      "issueYear": "2023-07-25T23:36:09.700Z",
+      "rating": 1,
+      "authors": "Fredrick Cummings",
+      "image": {
+        "url": "https://picsum.photos/seed/mr18b/640/480"
+      },
+      "categories": "Thriller"
+    },
+    {
+      "id": 8,
+      "title": "vomica cum amplus",
+      "issueYear": "2024-05-28T07:36:38.508Z",
+      "rating": 1,
+      "authors": "Philip Torphy V",
+      "image": {
+        "url": "https://picsum.photos/seed/cRA7D2kfC/640/480"
+      },
+      "categories": "Memoir"
+    },
+    {
+      "id": 9,
+      "title": "videlicet illo adsidue",
+      "issueYear": "2024-10-14T13:18:57.899Z",
+      "rating": 4,
+      "authors": "Leland Zboncak-Flatley",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=1498606313930752"
+      },
+      "categories": "Travel"
+    },
+    {
+      "id": 10,
+      "title": "adnuo vilis vere",
+      "issueYear": "2023-05-08T07:13:06.547Z",
+      "rating": 1,
+      "authors": "Karl Keebler Jr.",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=8205085689511936"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 11,
+      "title": "amiculum dolorum blandior",
+      "issueYear": "2023-04-07T03:19:21.153Z",
+      "rating": 1,
+      "authors": "Fernando Borer I",
+      "image": {
+        "url": "https://picsum.photos/seed/juVjSpRSi/640/480"
+      },
+      "categories": "Fantasy"
+    },
+    {
+      "id": 12,
+      "title": "virtus tepesco vos",
+      "issueYear": "2023-10-09T00:59:03.186Z",
+      "rating": 4,
+      "authors": "Rodney Boyer",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=8547383231119360"
+      },
+      "categories": "Thriller"
+    },
+    {
+      "id": 13,
+      "title": "speciosus colligo ullam",
+      "issueYear": "2024-04-01T16:52:03.439Z",
+      "rating": 5,
+      "authors": "Melody Blanda",
+      "image": {
+        "url": "https://picsum.photos/seed/8bBvpmPH/640/480"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 14,
+      "title": "summisse aspernatur succurro",
+      "issueYear": "2023-03-12T15:09:44.141Z",
+      "rating": 5,
+      "authors": "Stella Zboncak",
+      "image": {
+        "url": "https://picsum.photos/seed/JQfApQ/640/480"
+      },
+      "categories": "Romance"
+    },
+    {
+      "id": 15,
+      "title": "totus conduco virga",
+      "issueYear": "2023-07-10T05:00:06.666Z",
+      "rating": 3,
+      "authors": "Emma Mohr",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=5708986961625088"
+      },
+      "categories": "Cookbooks"
+    },
+    {
+      "id": 16,
+      "title": "verumtamen supplanto aut",
+      "issueYear": "2023-04-21T14:52:36.409Z",
+      "rating": 1,
+      "authors": "Everett Lakin",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=5580990332272640"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 17,
+      "title": "dolores basium altus",
+      "issueYear": "2025-01-13T07:33:13.535Z",
+      "rating": 1,
+      "authors": "Troy Casper",
+      "image": {
+        "url": "https://picsum.photos/seed/3J9Ls7dD/640/480"
+      },
+      "categories": "Western"
+    },
+    {
+      "id": 18,
+      "title": "assentator illo sollicito",
+      "issueYear": "2023-09-13T22:41:58.009Z",
+      "rating": 3,
+      "authors": "Dominick Wehner",
+      "image": {
+        "url": "https://picsum.photos/seed/J7SKL/640/480"
+      },
+      "categories": "Fantasy"
+    },
+    {
+      "id": 19,
+      "title": "voluntarius vitium vomica",
+      "issueYear": "2023-07-02T18:24:05.377Z",
+      "rating": 2,
+      "authors": "Santiago Swaniawski",
+      "image": {
+        "url": "https://picsum.photos/seed/eV0CZp9HF3/640/480"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 20,
+      "title": "umquam ipsum atqui",
+      "issueYear": "2024-01-03T14:00:08.177Z",
+      "rating": 4,
+      "authors": "Wendy Reichert",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=4537615506210816"
+      },
+      "categories": "Western"
+    },
+    {
+      "id": 21,
+      "title": "spectaculum ustilo ulterius",
+      "issueYear": "2023-06-11T06:27:27.828Z",
+      "rating": 2,
+      "authors": "Horace McKenzie",
+      "image": {
+        "url": "https://picsum.photos/seed/uDDyWn9mKj/640/480"
+      },
+      "categories": "History"
+    },
+    {
+      "id": 22,
+      "title": "eveniet tabgo voro",
+      "issueYear": "2024-07-16T06:45:33.565Z",
+      "rating": 5,
+      "authors": "Mr. Kelvin Johnston",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=7788885348188160"
+      },
+      "categories": "Fantasy"
+    },
+    {
+      "id": 23,
+      "title": "trepide arbitro solus",
+      "issueYear": "2024-06-19T13:58:44.123Z",
+      "rating": 3,
+      "authors": "Theresa Kirlin",
+      "image": {
+        "url": "https://picsum.photos/seed/TGjcy/640/480"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 24,
+      "title": "turpis aliqua volva",
+      "issueYear": "2024-10-31T16:16:19.569Z",
+      "rating": 2,
+      "authors": "Maureen Zboncak",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=5462850640281600"
+      },
+      "categories": "Romance"
+    },
+    {
+      "id": 25,
+      "title": "depromo facilis angelus",
+      "issueYear": "2023-11-04T19:50:09.120Z",
+      "rating": 3,
+      "authors": "Constance Murazik",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=7565963759190016"
+      },
+      "categories": "Fantasy"
+    },
+    {
+      "id": 26,
+      "title": "delicate omnis adipiscor",
+      "issueYear": "2024-06-05T00:24:56.740Z",
+      "rating": 2,
+      "authors": "Jana O'Connell III",
+      "image": {
+        "url": "https://picsum.photos/seed/G6F59z/640/480"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 27,
+      "title": "paens ago itaque",
+      "issueYear": "2024-01-06T19:37:55.377Z",
+      "rating": 5,
+      "authors": "Jean Williamson",
+      "image": {
+        "url": "https://picsum.photos/seed/ClcNLv/640/480"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "title": "tibi temperantia adsum",
+      "issueYear": "2023-07-03T09:26:35.136Z",
+      "rating": 1,
+      "authors": "Miss Verna White",
+      "image": {
+        "url": "https://picsum.photos/seed/SwJUpgY/640/480"
+      },
+      "categories": "Travel"
+    },
+    {
+      "id": 29,
+      "title": "tibi consequatur aer",
+      "issueYear": "2024-11-10T02:31:40.590Z",
+      "rating": 4,
+      "authors": "Allen Berge",
+      "image": {
+        "url": "https://picsum.photos/seed/hn1oK/640/480"
+      },
+      "categories": "Mystery"
+    },
+    {
+      "id": 30,
+      "title": "culpa decens curia",
+      "issueYear": "2023-10-14T05:40:52.103Z",
+      "rating": 1,
+      "authors": "Colin Blick",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=1481981743333376"
+      },
+      "categories": "Travel"
+    },
+    {
+      "id": 31,
+      "title": "defetiscor defluo debitis",
+      "issueYear": "2024-05-04T20:10:26.726Z",
+      "rating": 2,
+      "authors": "Latoya Cummings",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=5413701645500416"
+      },
+      "categories": "Thriller"
+    },
+    {
+      "id": 32,
+      "title": "creber degero accusantium",
+      "issueYear": "2023-02-04T21:30:25.256Z",
+      "rating": 1,
+      "authors": "Josephine Champlin MD",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=5710440533327872"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 33,
+      "title": "doloribus vulticulus creber",
+      "issueYear": "2023-08-25T14:40:33.796Z",
+      "rating": 1,
+      "authors": "Amber Feeney",
+      "image": {
+        "url": "https://picsum.photos/seed/0Vlal/640/480"
+      },
+      "categories": "Fantasy"
+    },
+    {
+      "id": 34,
+      "title": "corrigo cenaculum adipisci",
+      "issueYear": "2024-05-22T04:13:54.085Z",
+      "rating": 2,
+      "authors": "Pearl Nader IV",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=7575360466059264"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 35,
+      "title": "aestas aggero despecto",
+      "issueYear": "2023-06-25T14:51:09.403Z",
+      "rating": 2,
+      "authors": "Evan Schmidt",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=7406794582261760"
+      },
+      "categories": "Dystopian"
+    },
+    {
+      "id": 36,
+      "title": "iusto argumentum degusto",
+      "issueYear": "2023-06-07T04:06:20.967Z",
+      "rating": 3,
+      "authors": "Rufus Cummings V",
+      "image": {
+        "url": "https://picsum.photos/seed/sYgeD3e/640/480"
+      },
+      "categories": "Self-help"
+    },
+    {
+      "id": 37,
+      "title": "calamitas trado vesper",
+      "issueYear": "2023-11-05T15:59:54.957Z",
+      "rating": 3,
+      "authors": "Jeffery Okuneva MD",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=3583307054841856"
+      },
+      "categories": "Memoir"
+    },
+    {
+      "id": 38,
+      "title": "suppono sperno trado",
+      "issueYear": "2024-12-14T04:59:49.673Z",
+      "rating": 3,
+      "authors": "Susie Kuhic",
+      "image": {
+        "url": "https://picsum.photos/seed/RVokG/640/480"
+      },
+      "categories": "Thriller"
+    },
+    {
+      "id": 39,
+      "title": "at calamitas victus",
+      "issueYear": "2023-09-11T20:02:03.911Z",
+      "rating": 5,
+      "authors": "Jackie Bergnaum",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=6228754047172608"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 40,
+      "title": "autem id coniuratio",
+      "issueYear": "2024-04-05T19:44:34.915Z",
+      "rating": 2,
+      "authors": "Lindsey Mayert",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=8993085321117696"
+      },
+      "categories": "Health"
+    },
+    {
+      "id": 41,
+      "title": "verbum vulgaris vociferor",
+      "issueYear": "2024-09-12T04:21:13.943Z",
+      "rating": 1,
+      "authors": "Dr. Orville Blick",
+      "image": {
+        "url": "https://picsum.photos/seed/GeC4UIc/640/480"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 42,
+      "title": "caelum nam ambitus",
+      "issueYear": "2023-08-19T00:12:19.746Z",
+      "rating": 3,
+      "authors": "Tricia Bogisich",
+      "image": {
+        "url": "https://picsum.photos/seed/McHB7g63e/640/480"
+      },
+      "categories": "Self-help"
+    },
+    {
+      "id": 43,
+      "title": "beneficium speciosus audeo",
+      "issueYear": "2024-02-13T20:49:05.919Z",
+      "rating": 5,
+      "authors": "Elvira Jacobson",
+      "image": {
+        "url": "https://picsum.photos/seed/VaS4PAq/640/480"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 44,
+      "title": "deserunt maxime appono",
+      "issueYear": "2024-07-10T15:17:58.736Z",
+      "rating": 5,
+      "authors": "Earnest Gorczany",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=976540129034240"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 45,
+      "title": "vero tondeo uxor",
+      "issueYear": "2024-11-02T12:13:29.640Z",
+      "rating": 2,
+      "authors": "Emilio Crooks",
+      "image": {
+        "url": "https://picsum.photos/seed/MOXQPdhKLb/640/480"
+      },
+      "categories": "Mystery"
+    },
+    {
+      "id": 46,
+      "title": "laboriosam tabesco civis",
+      "issueYear": "2024-06-18T05:49:00.600Z",
+      "rating": 3,
+      "authors": "Francisco Murazik",
+      "image": {
+        "url": "https://picsum.photos/seed/uP0GyFvn/640/480"
+      },
+      "categories": "Biography"
+    },
+    {
+      "id": 47,
+      "title": "decens ex demens",
+      "issueYear": "2023-11-29T02:50:17.844Z",
+      "rating": 3,
+      "authors": "Miss Dianne Rolfson",
+      "image": {
+        "url": "https://picsum.photos/seed/VRiryH/640/480"
+      },
+      "categories": "Health"
+    },
+    {
+      "id": 48,
+      "title": "cohors valeo commodi",
+      "issueYear": "2023-03-23T22:23:49.579Z",
+      "rating": 3,
+      "authors": "Susie Beer-Jacobson",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=7530968611028992"
+      },
+      "categories": "Science Fiction"
+    },
+    {
+      "id": 49,
+      "title": "earum creptio quam",
+      "issueYear": "2023-09-18T05:49:37.271Z",
+      "rating": 1,
+      "authors": "Virgil Hodkiewicz",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=54604005900288"
+      },
+      "categories": "Self-help"
+    },
+    {
+      "id": 50,
+      "title": "trucido acervus aperte",
+      "issueYear": "2023-07-23T21:32:23.067Z",
+      "rating": 1,
+      "authors": "Lorena Weissnat",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=668967022624768"
+      },
+      "categories": "Health"
+    },
+    {
+      "id": 51,
+      "title": "carmen eveniet ambitus",
+      "issueYear": "2023-09-18T16:54:10.063Z",
+      "rating": 5,
+      "authors": "Bradley Nitzsche DVM",
+      "image": {
+        "url": "https://picsum.photos/seed/EK8TWA/640/480"
+      },
+      "categories": "Self-help"
+    },
+    {
+      "id": 52,
+      "title": "a utique colo",
+      "issueYear": "2024-01-01T21:28:34.042Z",
+      "rating": 4,
+      "authors": "Erik Heller",
+      "image": {
+        "url": "https://picsum.photos/seed/AGTgQ5/640/480"
+      },
+      "categories": "Western"
+    },
+    {
+      "id": 53,
+      "title": "hic cunae tersus",
+      "issueYear": "2023-04-08T19:42:35.486Z",
+      "rating": 1,
+      "authors": "Myra Waters",
+      "image": {
+        "url": "https://picsum.photos/seed/H76Iv4/640/480"
+      },
+      "categories": "Travel"
+    },
+    {
+      "id": 54,
+      "title": "aperte crebro spiculum",
+      "issueYear": "2024-06-12T04:32:39.923Z",
+      "rating": 1,
+      "authors": "Tomas West",
+      "image": {
+        "url": "https://picsum.photos/seed/eyfzUQBJY/640/480"
+      },
+      "categories": "Dystopian"
+    },
+    {
+      "id": 55,
+      "title": "aer auctus conqueror",
+      "issueYear": "2023-08-22T16:24:44.765Z",
+      "rating": 1,
+      "authors": "Adrienne Quigley",
+      "image": {
+        "url": "https://picsum.photos/seed/WzDfZ/640/480"
+      },
+      "categories": "Travel"
+    },
+    {
+      "id": 56,
+      "title": "uter aestus conatus",
+      "issueYear": "2024-11-28T12:38:35.672Z",
+      "rating": 4,
+      "authors": "Barbara Schaefer",
+      "image": {
+        "url": "https://picsum.photos/seed/xkGkvxAf6/640/480"
+      },
+      "categories": "History"
+    },
+    {
+      "id": 57,
+      "title": "volaticus aeneus tantillus",
+      "issueYear": "2023-05-28T18:34:22.469Z",
+      "rating": 3,
+      "authors": "Miranda Braun III",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=4633263888924672"
+      },
+      "categories": "Western"
+    },
+    {
+      "id": 58,
+      "title": "usque abundans amor",
+      "issueYear": "2023-10-17T02:33:31.758Z",
+      "rating": 1,
+      "authors": "Jeanne Schimmel",
+      "image": {
+        "url": "https://loremflickr.com/640/480?lock=6057022384504832"
+      },
+      "categories": "Romance"
+    },
+    {
+      "id": 59,
+      "title": "beatae corrupti cubo",
+      "issueYear": "2023-02-23T19:40:29.710Z",
+      "rating": 5,
+      "authors": "Sadie Olson DDS",
+      "image": {
+        "url": "https://picsum.photos/seed/jpQgmZ/640/480"
+      },
+      "categories": "Mystery"
+    },
+    {
+      "id": 60,
+      "title": "supra abbas aranea",
+      "issueYear": "2024-04-17T06:39:08.875Z",
+      "rating": 3,
+      "authors": "John Murazik",
+      "image": {
+        "url": "https://picsum.photos/seed/NQbet/640/480"
+      },
+      "categories": "Science Fiction"
+    }
+  ]
+}

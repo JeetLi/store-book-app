@@ -1,5 +1,5 @@
 {
-  "name": "clevertec-store-book-app",
+  "name": "store-book-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "@types/node": "^16.18.79",
     "@types/react": "^18.2.51",
     "@types/react-dom": "^18.2.18",
+    "faker-js": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -39,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "ts-node": "^10.9.2"
   }
 }
